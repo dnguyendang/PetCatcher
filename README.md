@@ -1,3 +1,2 @@
 # PetCatcher
-1st year game project 
-practice with C# and Unity; 
+Please help me!!! I'm falling (in love with you) >.<
